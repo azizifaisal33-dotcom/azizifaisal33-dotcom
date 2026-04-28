@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm azizifaisal33-dotcom!
 
-<!--
-**azizifaisal33-dotcom/azizifaisal33-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Nano-X+Creator;AI+Engineer;Python+Dev;Termux+Master" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 **POPULAR REPO**
+[![Nano-X](https://github-readme-stats.vercel.app/api/pin/?username=azizifaisal33-dotcom&repo=nano-ai&theme=radical)](https://github.com/azizifaisal33-dotcom/nano-ai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 **TECH STACK**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 **STATS**
+![Stats](https://github-readme-stats.vercel.app/api?username=azizifaisal33-dotcom&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizifaisal33-dotcom&layout=compact&theme=radical)
